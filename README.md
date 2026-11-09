@@ -37,4 +37,4 @@ Run `CA2_Projection_ROI_Quantification.py` in Fiji using **Python (Jython)**. Se
 
 ## Analysis settings
 
-Settings are specific to the original dataset. Review channel assignments, image calibration, cropping parameters, and detection thresholds before analyzing other data. The CSI script contains hard-coded starting populations (`M1=99`, `M2=227`, `M3=9`, `M4=167`) and fixed segmentation settings; update these for a different dataset.
+Settings are specific to the original dataset. Review channel assignments, image calibration, cropping parameters, and detection thresholds before analyzing other data. The CSI script contains hard-coded starting populations and fixed segmentation settings; update these for a different dataset.
